@@ -47,8 +47,6 @@ git push -u origin main
 Resumes are processed in memory only and not logged. Resume text is sent to Google's Gemini API.
 
 ## Screenshots
-_Add screenshots here after running the app._
-## Screenshots
 
 ### 1. Application Dashboard
 ![Dashboard](screenshots/dashboard.png)
