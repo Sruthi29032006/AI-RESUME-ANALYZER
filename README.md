@@ -48,6 +48,16 @@ Resumes are processed in memory only and not logged. Resume text is sent to Goog
 
 ## Screenshots
 _Add screenshots here after running the app._
+## Screenshots
+
+### 1. Application Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. ATS Score Analysis
+![ATS Score Analysis](screenshots/ats-score-analysis.png)
+
+### 3. Keyword Gap Analysis
+![Keyword Gap Analysis](screenshots/keyword-gap-analysis.png)
 
 ## Future work
 OCR for scanned PDFs, semantic embeddings, multiple-resume comparison, user accounts.
